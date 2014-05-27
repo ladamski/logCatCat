@@ -1,0 +1,17 @@
+{
+  "name": "LogCatCat",
+  "description": "Lets you capture the last few hundred lines of logcat",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/images/icon-128.png"
+  },
+  "developer": {
+    "name": "Lucas Adamski",
+    "url": "https://blog.mozilla.org/ladamski"
+  },
+  "permissions": {
+    "desktop-notification": {
+      "description": "Needed for creating system notifications."
+    }
+  }
+}
